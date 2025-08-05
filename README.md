@@ -26,5 +26,25 @@ A simple yet powerful touch-based cafeteria ordering system designed for univers
 
 ---
 
+Here is the folder structure:
+university-cafe-system:
+
+├── frontend/
+│   ├── tkinter.py
+│   ├──unicafe.py
+If you want to make or add some advanced features then you  can do it  easily using this structure. 
+├── frontend/
+│   ├── index.htm
+│   ├── style.css
+│   └── app.js
+├── backend/
+│   ├── app.py / server.js
+│   └── database/
+│       └── orders.db
+├── admin/
+│   └── menu_editor.html
+├── README.md
+└── requirements.txt / package.json
+
 
 
